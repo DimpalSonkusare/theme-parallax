@@ -1,0 +1,71 @@
+body,html{
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+*{
+    box-sizing: border-box;
+}
+.welcome-page{
+    height: 100%;
+    width: 100%;
+    background-image: url(https://skitguys.com/imager/stillimages/137313/Galaxy_Glass_Welcome_MOW-HD_aadcc2b1f9fa535f36249a03e9ea56d2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.image{
+    height: 100%;
+    width: 25%;
+    background-image: url(/images/simple.jpg.png);
+    background-size: contain;
+    background-attachment: fixed;
+}
+.image2{
+    height: 100%;
+    width: 25%;
+    background-image: url(/images/1d.png);
+    background-size: contain;
+    background-attachment: fixed;
+}
+.image3{
+    height: 100%;
+    width: 50%;
+    background-image: url(/images/2details.png);
+    background-size: contain;
+    background-attachment: fixed;
+}
+.image4{
+    height: 100%;
+    width: 50%;
+    background-image: url(/images/2d.png);
+    background-size: contain;
+    background-attachment: fixed;
+}
+.image5{
+    height: 100%;
+    width: 75%;
+    background-image: url(/images/);
+    background-size: contain;
+    background-attachment: fixed;
+}
+.image6{
+    height: 100%;
+    width: 75%;
+    background-image: url(/images/3d.png);
+    background-size: contain;
+    background-attachment: fixed;
+}
+.image7{
+    height: 100%;
+    width: 100%;
+    background-image: url(/images/);
+    background-size: contain;
+    background-attachment: fixed;
+}
+.image8{
+    height: 100%;
+    width: 100%;
+    background-image: url(/images/4d.png);
+    background-size: contain;
+    background-attachment: fixed;
+}
