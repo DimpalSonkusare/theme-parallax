@@ -13,59 +13,59 @@ body,html{
     background-size: cover;
     background-attachment: fixed;
 }
-.image{
+.image1{
     height: 100%;
     width: 25%;
-    background-image: url(/images/simple.jpg.png);
+    background-image: url(/images/blank.png);
     background-size: contain;
     background-attachment: fixed;
 }
 .image2{
     height: 100%;
     width: 25%;
-    background-image: url(/images/1d.png);
+    background-image: url(/images/blank.png);
     background-size: contain;
     background-attachment: fixed;
 }
 .image3{
     height: 100%;
     width: 50%;
-    background-image: url(/images/2details.png);
+    background-image: url(/images/blank.png);
     background-size: contain;
     background-attachment: fixed;
 }
 .image4{
     height: 100%;
     width: 50%;
-    background-image: url(/images/2d.png);
+    background-image: url(/images/blank.png);
     background-size: contain;
     background-attachment: fixed;
 }
 .image5{
     height: 100%;
     width: 75%;
-    background-image: url(/images/);
+    background-image: url(/images/blank.png);
     background-size: contain;
     background-attachment: fixed;
 }
 .image6{
     height: 100%;
     width: 75%;
-    background-image: url(/images/3d.png);
+    background-image: url(/images/blank.png);
     background-size: contain;
     background-attachment: fixed;
 }
 .image7{
     height: 100%;
     width: 100%;
-    background-image: url(/images/);
+    background-image: url(/images/blank.png);
     background-size: contain;
     background-attachment: fixed;
 }
 .image8{
     height: 100%;
     width: 100%;
-    background-image: url(/images/4d.png);
+    background-image: url(/images/blank.png);
     background-size: contain;
     background-attachment: fixed;
 }
