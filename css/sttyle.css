@@ -16,56 +16,56 @@ body,html{
 .image1{
     height: 100%;
     width: 25%;
-    background-image: url(/images/blank.png);
+    background-image: url(/images/BLANK.png);
     background-size: contain;
     background-attachment: fixed;
 }
 .image2{
     height: 100%;
     width: 25%;
-    background-image: url(/images/1-detail.png);
+    background-image: url(/images/1-DETAIL.png);
     background-size: contain;
     background-attachment: fixed;
 }
 .image3{
     height: 100%;
     width: 50%;
-    background-image: url(/images/1-detail.png);
+    background-image: url(/images/1-DETAIL.png);
     background-size: contain;
     background-attachment: fixed;
 }
 .image4{
     height: 100%;
     width: 50%;
-    background-image: url(/images/2-details.png);
+    background-image: url(/images/2-DETAILS.png);
     background-size: contain;
     background-attachment: fixed;
 }
 .image5{
     height: 100%;
     width: 75%;
-    background-image: url(/images/2-details.png);
+    background-image: url(/images/2-DETAILS.png);
     background-size: contain;
     background-attachment: fixed;
 }
 .image6{
     height: 100%;
     width: 75%;
-    background-image: url(/images/3-details.png);
+    background-image: url(/images/3-DETAILS.png);
     background-size: contain;
     background-attachment: fixed;
 }
 .image7{
     height: 100%;
     width: 100%;
-    background-image: url(/images/3-details.png);
+    background-image: url(/images/3-DETAILS.png);
     background-size: contain;
     background-attachment: fixed;
 }
 .image8{
     height: 100%;
     width: 100%;
-    background-image: url(/images/4-details.png);
+    background-image: url(/images/4-DETAIL.png);
     background-size: contain;
     background-attachment: fixed;
 }
